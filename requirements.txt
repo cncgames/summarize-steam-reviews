@@ -1,0 +1,5 @@
+requests~=2.28.2
+openai~=0.27.4
+python-dotenv~=1.0.0
+transformers~=4.28.1
+alive-progress~=3.1.1
